@@ -1,1 +1,128 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T16:19:57.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Dp-19w9iv31q2E_9T4dG" version="13.10.0" type="github"><diagram id="A2onpQF-9WkOvh7NmmWa" name="Page-1">7VtLc+I4EP41HDNlyy/5aALs1NbO1lTlsDunlBM04F2DWGMSmF+/MpbklmyMGYIfmVyI1G7JLelTf92SM7LuV/vfknCz/ELnJB4hY74fWZMRQiZ2HfYnkxxyiWPjXLBIojlXKgQP0Q/ChQaX7qI52SqKKaVxGm1U4TNdr8lzqsjCJKGvqtp3Gqtv3YQLUhI8PIdxWfpXNE+XuRQjr5B/JtFiKd5sun7+ZBUKZT6S7TKc01cgsqYj6z6hNM1Lq/09ibPJE/OSt5udeCoNS8g6bdLg0Z99S/58nO+Xyb/G4sfnly+Pv99Z3Lb0IAZM5mz8vEqTdEkXdB3G00I6TuhuPSdZrwarFTp/ULphQpMJ/yFpeuCLGe5SykTLdBXzp8zg5PB31v6TI6rfeHfHymSv1A6yNg+yJWXVNV2TXDKL4pg/z8eSDeDkFHHRlu6SZ1IzLwJqYbIgaY0ekgvJdgChK8LsZe0SEodp9KLaEXIoLqQeb8oGFR6AwoZG63QLev6aCZgC31W2zyHF95Rpayuv6ZvoSn2s6LNCbrGogaEXoiP6LkCi0w0Se4coewiIsnCt/m0Q4n34qquQ5Q4BWZ7jtI8s/wNZVyELDwFZpml0AC0+6pcw3vF5GCE3ZpM5fmKFRXpcsFzwnR7NLVDo/rej4sHd9oijgCmY9mZfPJS9sMUPrBGDFvay8tjJyn7Ay4zSs8LsqGAIBfYbHCWWUMDHXwuoYWEfG39uomo2E4OhaPtI3SWvyyglD5vwCLpXljCoO4JPFUlSsq/HbhlrAhQWB8VrEazLcGYJAnXXOA1HgIifWHDUsTNxLU9xJ58M0zzrUljtK0kiNgUkad/PoIZ+xjyx+I0dzXUra7/zELXxMhhdLgNq06P6uS+VzpP9To+/uXwCniJR1rwuc6Qmb8h9rAs8LRJ9MjUE5BPQMAByoan0jAqHj9GQ3LVTnWgq3tuq8N7erby3PKx5r3vcbrrH/S5iOstWAYHwmTy0Xv82IR3qiAckw1tYCjjDG6jnDN8UdsjqBey8etjZnlOnfxvY2f3KJAT1IZhM2ODRVBCUZDbIkxORW+TC+4I8MQIdluUYGBaonUwBSzsgg8mbQ9aVOc1TUsGPvadNy9R406/gTbtV3nTfOW+6TR2Y04UD00/NzvGmi7vgTfyBkXwivCFgBDsdYMRtk+T8ysMuyFJTtYo5yVVQoMzFxoCKXH62pqSHUkey173oMBCWaMQJU06RS1bY7Kn2XErhE/AupPYMM18MiHngPOp6ev7plHnUq+BRfCsexSfxL+AuvpAQgDYrsF1smVttD0+FDgzZXADT8mkIhJ0brrI1XT9tN/yVHFYw9lORnnWH1XdjgXcZ7En74K49dTyjbVkLNAmkoRXQPYHyjhFtGpYO6YrQ0GkT0mZHtN//2zWjYbxgXhsvXLd+RqucPBWJpHZPZVdx6VlOqz9qnRT9yBQVQfot57a46i1asBAUL9KdVdkeR7W/icFTJTQ4H4yo3kwZ7HC4Ws9Ymqa8/s382rv/Yuna27bqvEJOHF9J29ZWKPeHvJW2SG9xI9/qlfwb+zMYfDvn3MA17mSmhl3Qf8hu1bThF/FDd34DR1QVYN3OEZ1OmrebcH0FfkvbIgP0rAjFMe4riGsj9nxWeoqnyi9Y2sWT16qD7CeergkKh+PMtHusHmDPbxV7cEGnBX4a3XWNQRkeW0xKl1VI7e1Saj0ecJTP2S4gW82MIR/ZIf2qtop+3TYhi6w2IRtYAkPQbWleyVTxqqEEanrA4Y7Vq9p6EIuwllfPbaQKp6wdIdpVUJavw6CJHG9OGAY4lpyAodVk4Q0vimHDIe8ZW3y52J894ww4BzMBhir3Rg/o4tckB9foHTm0G0vDCNYBIetFEH8rihAcpTHGpZuwgjrK560/cW0qv6QdMuI9rz3Es2rx38r5aVzxP9/W9H8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T16:22:38.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1wBpB6HtP29AVnqVFRID" version="13.10.0" type="github">
+  <diagram id="A2onpQF-9WkOvh7NmmWa" name="Page-1">
+    <mxGraphModel dx="2331" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-1" target="_9FYrN_dxhrk0gzHvM_J-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="140" />
+              <mxPoint x="120" y="140" />
+              <mxPoint x="120" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-1" target="_9FYrN_dxhrk0gzHvM_J-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="140" />
+              <mxPoint x="380" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-1" target="_9FYrN_dxhrk0gzHvM_J-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="140" />
+              <mxPoint x="755" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-1" target="_9FYrN_dxhrk0gzHvM_J-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="140" />
+              <mxPoint x="1105" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Учење преку игри&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.637;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-2" target="_9FYrN_dxhrk0gzHvM_J-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-2" target="_9FYrN_dxhrk0gzHvM_J-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Запознавање со животинскиот свет&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-4" target="_9FYrN_dxhrk0gzHvM_J-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="280" />
+              <mxPoint x="340" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.381;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-4" target="_9FYrN_dxhrk0gzHvM_J-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="270" />
+              <mxPoint x="475" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Учење на едноставни математички операции&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="190" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-6" target="_9FYrN_dxhrk0gzHvM_J-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="280" />
+              <mxPoint x="680" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-6" target="_9FYrN_dxhrk0gzHvM_J-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="755" y="280" />
+              <mxPoint x="850" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Игри во вид на сложувалки, крстозбори за учење на нови поими&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="670" y="185" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-8" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;Игри за вежбање на&amp;nbsp;меморија и развивање логика&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="180" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-10" target="_9FYrN_dxhrk0gzHvM_J-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Одредување на животната средина во која живее животното на сликата&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="290" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="_9FYrN_dxhrk0gzHvM_J-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Одредување на името на животното прикажано на сликата&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="290" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-16" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Пишување на името на животното&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="430" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Пишување на името на животната средина&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="75" y="430" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Броење на елементите прикажани &lt;br&gt;на сликите&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="290" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Употреба на резултатите од броењето за да се изврши некоја операција&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="290" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Одредување на боите на елементите прикажани на сликите&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="290" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_9FYrN_dxhrk0gzHvM_J-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Внесување на резултатите во крстозборот и откривање на скриениот поим&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="290" width="160" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
