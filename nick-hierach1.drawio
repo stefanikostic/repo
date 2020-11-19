@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T17:35:14.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="yrjTM5KDZ7gt2QJ4o0fz" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T22:01:26.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="f5AkabqQ3FIRIcy-XPTo" version="13.10.0" type="github">
   <diagram id="dbmzpbNbU_0EVoZNfDKH" name="Page-1">
     <mxGraphModel dx="1038" dy="1717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,14 +103,14 @@
         <mxCell id="J5Uw7S5W74ju-p9mBWIw-17" value="3.1." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="340" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J5Uw7S5W74ju-p9mBWIw-21" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;план 0.&lt;br&gt;&amp;nbsp; &amp;nbsp; направи 1&lt;br&gt;&amp;nbsp; &amp;nbsp; потоа направи 2&lt;br&gt;&amp;nbsp; &amp;nbsp; откако ќе го добиеш &lt;br&gt;&amp;nbsp; &amp;nbsp; решението направи 3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="90" width="160" height="70" as="geometry" />
+        <mxCell id="J5Uw7S5W74ju-p9mBWIw-21" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;план 0:&lt;br&gt;&amp;nbsp; &amp;nbsp; направи 1&lt;br&gt;&amp;nbsp; &amp;nbsp; потоа направи 2&lt;br&gt;&amp;nbsp; &amp;nbsp;на крај направи 3&lt;br&gt;&amp;nbsp; &amp;nbsp;А&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;ко одговорот не&lt;br&gt;&amp;nbsp; &amp;nbsp;е точен повтори 2-3&lt;/font&gt;&lt;/b&gt;&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="J5Uw7S5W74ju-p9mBWIw-30" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;&amp;nbsp; &amp;nbsp;план 1.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1.1 - 1.2 - 1.3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="J5Uw7S5W74ju-p9mBWIw-30" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;&amp;nbsp; &amp;nbsp;план 1:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;1.1 - 1.2 - 1.3&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="290" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J5Uw7S5W74ju-p9mBWIw-34" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;&amp;nbsp; &amp;nbsp;план 3.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;направи го 3.1.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;ако одговорот не&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;точен повтори 2-3&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="280" width="150" height="60" as="geometry" />
+        <mxCell id="J5Uw7S5W74ju-p9mBWIw-34" value="&lt;b&gt;&lt;font color=&quot;#7912ff&quot;&gt;&amp;nbsp; &amp;nbsp;план 3:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;направи го 3.1.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="285" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="J5Uw7S5W74ju-p9mBWIw-35" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px&quot;&gt;*&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="350" width="30" height="10" as="geometry" />
